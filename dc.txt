@@ -10,6 +10,7 @@
 {"url": "https://raw.fgit.cf/hg123/ck/main/box/fm/m.json","name":"fm-JS"},
 {"url": "https://raw.fgit.cf/hg123/ck/main/box/fty/m.json","name":"饭太硬"},
 {"url": "https://raw.fgit.cf/hg123/box2/main/m.json","name":"饭太硬2"},
+{"url": "https://raw.fgit.cf/hg123/box2/main/m1.json","name":"饭太硬3"},
 {"url": "https://raw.fgit.cf/hg123/ck/main/box/fengmi/m.json","name":"蜂蜜"},
 {"url": "https://raw.fgit.cf/hg123/ck/main/box/hexiu/m.json","name":"荷城茶秀"},
 {"url": "https://raw.fgit.cf/hg123/ck/main/box/ysc/m.json","name":"运输车"},
